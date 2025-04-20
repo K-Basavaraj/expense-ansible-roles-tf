@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.611110754189.realhandsonlabs.net
+app_location: /usr/share/nginx/html
+component: frontend
