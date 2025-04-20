@@ -1,4 +1,0 @@
-#login_host: mysql-dev.basavadevops81s.online #this of importing data from backend to mysql to connect this is hnaging according to env
-mysql_root_password: ExpenseApp1 #root password in rds @ wont work 
-app_location: /app
-component: backend
